@@ -1,0 +1,54 @@
+/* Estilos gerais */
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #747474;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #333;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 1em;
+}
+
+/* Estilos da barra de navegação */
+nav {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1em;
+}
+
+/* Estilos do conteúdo principal */
+main {
+    background-color: rgb(117, 111, 111);
+    padding: 2em;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+.post {
+    background-color: rgb(117, 111, 111);
+    border: 1px solid rgb(117, 111, 111);
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+/* Estilos do rodapé */
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #444;
+    color: white;
+}
